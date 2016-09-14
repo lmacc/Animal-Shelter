@@ -1,0 +1,22 @@
+0
+3
+Dog
+Small dog
+Jack Russel
+Sam
+true
+0
+5
+Cat
+strayed from home
+Tabby
+jess
+false
+0
+4
+Dog
+testing
+West Highland terrier
+peter dog
+true
+

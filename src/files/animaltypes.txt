@@ -1,0 +1,10 @@
+Dog
+Cat
+Hamster
+Mouse
+Bird
+Rabbit
+Donkey
+Horse
+Monkey
+Pig
